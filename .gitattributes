@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Applied[[:space:]]Statistics/Statistical[[:space:]]Analysis[[:space:]]Projects/US_wage_trend_analysis/data/wage[[:space:]]data/all_data_M_2015-2023.zip filter=lfs diff=lfs merge=lfs -text
